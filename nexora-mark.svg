@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" fill="none">
+  <defs>
+    <linearGradient id="nexora" x1="9" y1="8" x2="47" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5C879"/>
+      <stop offset=".55" stop-color="#F19A43"/>
+      <stop offset="1" stop-color="#C76D2C"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="6" y1="4" x2="49" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B2939"/>
+      <stop offset="1" stop-color="#0D1621"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="53" height="53" rx="17" fill="url(#surface)" stroke="#665037"/>
+  <path d="M16 40V16l24 24V16" stroke="url(#nexora)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="14" r="3" fill="#E3C46D"/>
+  <path d="M12 45h32" stroke="#F19A43" stroke-opacity=".34" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
